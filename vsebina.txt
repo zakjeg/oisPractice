@@ -1,3 +1,4 @@
 Prvotna vsebina datotekePrvotna vsebina datoteke.
 
 UPDATE1
+UPDATE2
